@@ -16,4 +16,10 @@
 - TensorFlow Playground - http://playground.tensorflow.org/
 - TensorFlow TensorBoard - https://www.tensorflow.org/versions/r0.12/how_tos/summaries_and_tensorboard/
 
+# GAN
 
+- GAN - https://github.com/hyun910219/GAN
+
+# CNN
+
+- RetinaNet - https://github.com/c0nn3r/RetinaNet
