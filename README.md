@@ -18,6 +18,9 @@
 
 # GAN
 
+- Simple GAN - https://github.com/devnag/pytorch-generative-adversarial-networks
+- Generative Models - https://github.com/wiseodd/generative-models
+- Generative Models Collection - https://github.com/znxlwm/pytorch-generative-model-collections
 - GAN - https://github.com/hyun910219/GAN
 - 3DGAN - https://github.com/rimchang/3DGAN-Pytorch
 
