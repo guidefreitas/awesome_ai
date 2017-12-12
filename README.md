@@ -24,3 +24,7 @@
 # CNN
 
 - RetinaNet - https://github.com/c0nn3r/RetinaNet
+
+# Attention Models
+
+- Attention Pytorch - https://github.com/jadore801120/attention-is-all-you-need-pytorch
