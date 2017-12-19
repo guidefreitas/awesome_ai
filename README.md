@@ -32,6 +32,7 @@
 # Object Detection
 
 - Basic Yolo - https://github.com/experiencor/basic-yolo-keras
+- Faster R-CNN - https://github.com/yhenon/keras-frcnn
 
 # Attention Models
 
