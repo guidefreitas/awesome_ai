@@ -29,6 +29,10 @@
 
 - RetinaNet - https://github.com/c0nn3r/RetinaNet
 
+# Object Detection
+
+- Basic Yolo - https://github.com/experiencor/basic-yolo-keras
+
 # Attention Models
 
 - Attention Pytorch - https://github.com/jadore801120/attention-is-all-you-need-pytorch
