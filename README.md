@@ -9,6 +9,8 @@
 - NVidia Digits - https://developer.nvidia.com/digits
 - Pytorch - http://pytorch.org/
 - TensorFlow - http://tensorflow.org/
+- Keras - http://keras.io
+- Keras ConvNets - https://github.com/heuritech/convnets-keras
 
 # Visualization Tools
 
