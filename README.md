@@ -1,5 +1,6 @@
 # Pytorch
 
+- Sequence-To-Sequence - https://github.com/lium-lst/nmtpytorch
 - Capsule Networks - https://github.com/gram-ai/capsule-networks
 - MNIST - https://github.com/kdn251/mnist
 - Pytorch Tutorial - https://github.com/MorvanZhou/PyTorch-Tutorial
