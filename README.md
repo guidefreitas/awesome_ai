@@ -40,3 +40,7 @@
 # Attention Models
 
 - Attention Pytorch - https://github.com/jadore801120/attention-is-all-you-need-pytorch
+
+# Mobile
+
+- Mobile Deep Learning - https://github.com/baidu/mobile-deep-learning
