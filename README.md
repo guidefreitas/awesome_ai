@@ -27,6 +27,7 @@
 - GAN - https://github.com/hyun910219/GAN
 - 3DGAN - https://github.com/rimchang/3DGAN-Pytorch
 - BicycleGAN - https://github.com/gitlimlab/BicycleGAN-Tensorflow
+- CycleGAN - https://github.com/junyanz/CycleGAN
 
 # CNN
 
@@ -44,3 +45,8 @@
 # Mobile
 
 - Mobile Deep Learning - https://github.com/baidu/mobile-deep-learning
+
+
+# Style Transfer
+
+- Photo Style Transfer - https://github.com/luanfujun/deep-photo-styletransfer
