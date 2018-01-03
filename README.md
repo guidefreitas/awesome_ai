@@ -12,6 +12,7 @@
 - TensorFlow - http://tensorflow.org/
 - Keras - http://keras.io
 - Keras ConvNets - https://github.com/heuritech/convnets-keras
+- Fabrik - https://github.com/Cloud-CV/Fabrik
 
 # Visualization Tools
 
