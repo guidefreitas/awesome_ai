@@ -48,6 +48,9 @@
 
 - Mobile Deep Learning - https://github.com/baidu/mobile-deep-learning
 
+# Face Detection/Recognition
+
+- Face Recognition https://github.com/ageitgey/face_recognition
 
 # Style Transfer
 
