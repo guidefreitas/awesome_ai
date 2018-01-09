@@ -62,4 +62,5 @@
 # Datasets
 
 - Cityscapes - https://www.cityscapes-dataset.com/
+- Big Mart Sales - https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 
