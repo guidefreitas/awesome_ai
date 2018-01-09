@@ -5,7 +5,7 @@
 - MNIST - https://github.com/kdn251/mnist
 - Pytorch Tutorial - https://github.com/MorvanZhou/PyTorch-Tutorial
 
-# Tools
+# Tools and Libraries
 
 - NVidia Digits - https://developer.nvidia.com/digits
 - Pytorch - http://pytorch.org/
@@ -13,6 +13,9 @@
 - Keras - http://keras.io
 - Keras ConvNets - https://github.com/heuritech/convnets-keras
 - Fabrik - https://github.com/Cloud-CV/Fabrik
+- MLBox - https://github.com/AxeldeRomblay/MLBox
+- XLearn - https://github.com/aksnzhy/xlearn
+
 
 # Visualization Tools
 
