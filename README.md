@@ -68,3 +68,17 @@
 - Cityscapes - https://www.cityscapes-dataset.com/
 - Big Mart Sales - https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/
 
+# Podcasts
+
+- ## Podcasts for Beginners:
+    - [Talking Machines](http://www.thetalkingmachines.com/)
+    - [Linear Digressions](http://lineardigressions.com/)
+    - [Data Skeptic](http://dataskeptic.com/)
+    - [This Week in Machine Learning & AI](https://twimlai.com/)
+    - [Machine Learning Guide](http://ocdevel.com/podcasts/machine-learning)
+
+- ## "More" advanced podcasts
+    - [Partially Derivative](http://partiallyderivative.com/)
+    - [O’Reilly Data Show](http://radar.oreilly.com/tag/oreilly-data-show-podcast)
+    - [Not So Standard Deviation](https://soundcloud.com/nssd-podcast)
+
