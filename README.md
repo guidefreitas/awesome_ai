@@ -39,6 +39,7 @@
 
 # Object Detection
 
+- Computer Vision Basics with Python and Keras -  https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV
 - Basic Yolo - https://github.com/experiencor/basic-yolo-keras
 - Faster R-CNN - https://github.com/yhenon/keras-frcnn
 - Images to OSM (Mask R-CNN) - https://github.com/jremillard/images-to-osm
