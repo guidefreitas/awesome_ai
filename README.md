@@ -55,6 +55,10 @@
 
 - Face Recognition https://github.com/ageitgey/face_recognition
 
+# NLP/NLU/Language
+
+- Language Crunch (Docker image) - https://github.com/artpar/languagecrunch
+
 # Style Transfer
 
 - Photo Style Transfer - https://github.com/luanfujun/deep-photo-styletransfer
