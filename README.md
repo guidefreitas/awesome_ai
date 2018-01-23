@@ -44,6 +44,7 @@
 - Basic Yolo - https://github.com/experiencor/basic-yolo-keras
 - Faster R-CNN - https://github.com/yhenon/keras-frcnn
 - Images to OSM (Mask R-CNN) - https://github.com/jremillard/images-to-osm
+- Facebook Detectron - https://github.com/facebookresearch/Detectron
 
 # Attention Models
 
