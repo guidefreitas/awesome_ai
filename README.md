@@ -16,6 +16,10 @@
 - MLBox - https://github.com/AxeldeRomblay/MLBox
 - XLearn - https://github.com/aksnzhy/xlearn
 
+# Embedded ML
+
+- TensorRT - https://github.com/NVIDIA/TensorRT
+- TensorFlow JS - https://www.tensorflow.org/js
 
 # Visualization Tools
 
